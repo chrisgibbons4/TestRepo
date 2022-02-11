@@ -17,7 +17,7 @@ More in-depth discussion of the change or implementation.
 Screenshots / external resources / links / etc.
 Link to documentation updated with changes impacted in the PR
 
-Original                  |       Updated
+Original          |       Updated
 :------------------------:|:------------------------:
 ** original screenshot ** | ** updated screenshot ** 
 		 
