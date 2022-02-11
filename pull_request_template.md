@@ -27,10 +27,6 @@ Notes for QA
 
 #### ✅ Acceptance criteria Checklist
 
-- [ ] Code peer reviewed?
 - [ ] Documentation has been updated to reflect the changes?
 - [ ] Passing all automated tests, including a successful deployment?
-- [ ] Passing any exploratory testing?
-- [ ] Rebased/merged with latest changes from development and re-tested?
-- [ ] Meeting the Coding Standards?
 
